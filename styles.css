@@ -1,5 +1,11 @@
 body {
+    font-family: 'Roboto';
     text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    margin: 10px;
 }
 
 .letter {
@@ -19,7 +25,7 @@ body {
 
 .wordLtr {
     background-color: #3154d4;
-    color: white;
+    color: #3154d4;
     display: inline-flex;
     margin: 10px;
     width: 40px;
@@ -30,6 +36,6 @@ body {
     border-radius: 3px;
 }
 
-#word {
-    color: white;
+#hangman {
+    height: 300px;
 }
