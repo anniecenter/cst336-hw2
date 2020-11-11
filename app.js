@@ -13,7 +13,7 @@ $(document).ready(function() {
     
     function displayBlankWord() {
         for(let i = 0; i < word.length; i++) {
-            $("#word").append(`<div class="wordLtr" id="ltr${i}">0</div>`);
+            $("#word").append(`<div class="wordLtr" id="ltr${i}">${word.charAt(i)}</div>`);
         }
     }
     
