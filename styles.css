@@ -39,3 +39,12 @@ h1 {
 #hangman {
     height: 300px;
 }
+
+#message {
+    font-size: 30px;
+}
+
+#newWordBtn {
+    width: 100px;
+    height: 40px;
+}

@@ -20,6 +20,9 @@
             <br><br><br>
             <!-- Letter Buttons -->
             <div id="letters"></div>
+            <br><br><br>
+            <!-- New Word Button -->
+            <button id="newWordBtn">New Word</button>
         </main>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 	    <script src="app.js"></script>
