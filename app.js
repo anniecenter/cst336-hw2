@@ -7,10 +7,10 @@ $(document).ready(function() {
                  "UNIQUE",      "ZEBRA",        "HELICOPTER",       "LARYNX",       "BASS",         "TWILIGHT",     "STARLIGHT",    "AMERICA",      "ANDROID",      "DIAMONDS",
                  "APPLE",       "OXEN",         "ROBOTIC",          "HYPNOTIC",     "EXOTIC",       "HAZARD",       "SWAGGER",      "CROCODILE",    "PENDULUM",     "CABBAGE",
                  "PECULIAR",    "SPECIAL",      "OLIVE",            "CATASTROPHE",  "ANOMALY",      "AUTOMATIC",    "APOSTROPHE",   "SPECIES",      "NEVERMORE",    "CRITIQUE",
-                 "EXPRESSION",  "PARALYZED",    "EMPATHETIC",       "ROMANTIC",     "BLASPHEMY",    "BECAUSE",      "BETROTHED",    "CHEESECAKE",   "XYLOPHONE",    "ANTIQUE",
+                 "EXPRESSION",  "PARALYZED",    "EMPATHETIC",       "ROMANTIC",     "BLASPHEMY",    "KNIGHT",       "BETROTHED",    "CHEESECAKE",   "XYLOPHONE",    "ANTIQUE",
                  "DAREDEVIL",   "BASTION",      "EGYPT",            "SYMPATHETIC",  "SYNTHETIC",    "COORDINATES",  "PEDANTIC",     "METTLE",       "DEXTERITY",    "SPECTER",
-                 "FABRICATE",   "GYRATE",       "INCOGNITO",        "IGNITION",     "JAGUAR",       "NICARAGUA",    "QUANTUM",      "CALIGRAPHY",   "VOLUPTUOUS",   "GHOST",
-                 "VELOCITY",    "PHILOSOPHY",   "XENOPHOBIC",       "YESTERAY",     "OLYMPICS",     "ASYMMETRIC",   "VOLUNTEER",    "ASYMPTOMATIC", "ISOMETRIC",    "ELECTRIC"];
+                 "FABRICATE",   "GYRATE",       "INCOGNITO",        "IGNITION",     "JAGUAR",       "NINJA",        "QUANTUM",      "CALIGRAPHY",   "VOLUPTUOUS",   "GHOST",
+                 "VELOCITY",    "PHILOSOPHY",   "XENOPHOBIC",       "YESTERDAY",     "OLYMPICS",     "ASYMMETRIC",   "VOLUNTEER",    "ASYMPTOMATIC", "ISOMETRIC",    "ELECTRIC"];
     
     function chooseWord() {
         let x = Math.floor(Math.random() * 79);
